@@ -32,7 +32,7 @@
 |20 | NUR FIRZANA BINTI BADRUS HISHAM |  |  |  |  |
 |21 | NURAISYAH BINTI MOHD ZIKRE |  |  |  |  |
 |22 | NURUL IKA SYAFINY BINTI AZHAR |  |  |  |  |
-|23 | POH LOK YEE |  |  |  |  |
+|23 | POH LOK YEE | pohlokyee | [:octocat:](https://github.com/pohlokyee) | <a href="https://www.linkedin.com/in/pohlokyee/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> |  |
 |24 | SABRINA HENG WEI QI |  |  |  |  |
 |25 | SAFIYA NURSYAHADAH BINTI MASNOOR |  |  |  |  |
 |26 | TAN ZHI MING |  |  |  |  |
